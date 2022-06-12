@@ -32,7 +32,7 @@
 
 `Container size`：部署配置，一般默认即可
 
-`Port`：8080
+`Port`：80
 
 Environment variables：`Key`：PORT，`Value`：80
 `Name`：自己定义
